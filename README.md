@@ -1,16 +1,15 @@
-## Hi there 👋
+# ? Привет, я Daniil!
 
-<!--
-**DA-Mathick/DA-Mathick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ?‍? О себе
+Студент магистр ВГУ, в данный момент обучаюсь на разработчка нейросетей. 
+Имею опыт участия в различных конференциях посвященных математическим задачам.
+Принимал участие в теоретическом исследование проекта связанного с нейронными сетями.
 
-Here are some ideas to get you started:
+## ? Текущие проект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ? Технический стек
+- Python, C++
+
+## ? Контакты
+- Email: kaplandanya@mail.ru
+- Telegram: @Daniil_Kaplan
