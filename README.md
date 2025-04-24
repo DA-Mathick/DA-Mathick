@@ -5,6 +5,9 @@ I am a master's student at VSU, currently studying to become a neural network de
 I have experience in participating in various conferences on mathematical problems.
 Participated in the theoretical study of a project related to neural networks.
 
+## Educational projects
+- "Course: Academy of Neural Networks"
+
 ## Technical stack
 - Python, C++
 
