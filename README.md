@@ -1,15 +1,13 @@
-# ? Привет, я Daniil!
+# Hi, I'm Daniil!
 
-## ?‍? О себе
-Студент магистр ВГУ, в данный момент обучаюсь на разработчка нейросетей. 
-Имею опыт участия в различных конференциях посвященных математическим задачам.
-Принимал участие в теоретическом исследование проекта связанного с нейронными сетями.
+## About myself
+I am a master's student at VSU, currently studying to become a neural network developer. 
+I have experience in participating in various conferences on mathematical problems.
+Participated in the theoretical study of a project related to neural networks.
 
-## ? Текущие проект
-
-## ? Технический стек
+## Technical stack
 - Python, C++
 
-## ? Контакты
+## Contacts
 - Email: kaplandanya@mail.ru
 - Telegram: @Daniil_Kaplan
